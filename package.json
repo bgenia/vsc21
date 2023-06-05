@@ -15,5 +15,12 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "llvm-vs-code-extensions.vscode-clangd",
+    "vadimcn.vscode-lldb",
+    "mhutchie.git-graph",
+    "xaver.clang-format",
+    "redhat.vscode-yaml",
+    "Guyutongxue.cpp-reference",
+    "tdennis4496.cmantic"
   ]
 }

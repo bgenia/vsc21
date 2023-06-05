@@ -1,0 +1,9 @@
+*
+!*/
+
+!.gitignore
+!.vscodeignore
+
+!package.json
+!README.md
+!CHANGELOG.md

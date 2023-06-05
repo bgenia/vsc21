@@ -2,7 +2,7 @@
   "name": "vsc21",
   "displayName": "vsc21",
   "description": "A starter extension pack for school 21 C/C++ projects",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "bgenia",
   "repository": {
     "type": "git",

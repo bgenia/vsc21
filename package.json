@@ -3,6 +3,10 @@
   "displayName": "vsc21",
   "description": "A starter extension pack for school 21 C/C++ projects",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bgenia/vsc21"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },

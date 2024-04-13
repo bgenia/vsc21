@@ -21,6 +21,7 @@
     "xaver.clang-format",
     "redhat.vscode-yaml",
     "Guyutongxue.cpp-reference",
-    "tdennis4496.cmantic"
+    "tdennis4496.cmantic",
+    "bgenia.s21lint-vscode"
   ]
 }
